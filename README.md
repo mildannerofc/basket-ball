@@ -6,4 +6,5 @@
 # Installation
 1. For downloading this source code, you can be able to use Microsoft Edge or any Chromium old versions to play this game.
 2. Enable developer mode depending on your browser's version.
-3. 
+3. Import the source code folder in your browser and open the apps section.
+4. Open the game and enjoy playing this.
