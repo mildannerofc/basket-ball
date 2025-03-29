@@ -1,0 +1,28 @@
+{
+	"banners" :
+	[
+		{ "src" : "banners/hex-blocks-puzzle-480x75.js", "weight" : 1 },
+		{ "src" : "banners/duckmageddon-330x75.js", "weight" : 1 },
+		{ "src" : "banners/city-dunk-banner-480x75.js", "weight" : 1 },
+		{ "src" : "banners/endless-truck-480x75.js", "weight" : 1 },
+		{ "src" : "banners/thug-racer-480x75.js", "weight" : 1 }
+	],
+	"inters" :
+	[
+		{ "src" : "banners/duckmageddon-320x320.js", "weight" : 1 },
+		{ "src" : "banners/hex-blocks-puzzle-480x320.js", "weight" : 1 },
+		{ "src" : "banners/supagamez-480x316.js", "weight" : 1 },
+		{ "src" : "banners/city-dunk-480x320.js", "weight" : 1 },
+		{ "src" : "banners/endless-truck-480x320.js", "weight" : 1 },
+		{ "src" : "banners/supagamez-480x316.js", "weight" : 1 },
+		{ "src" : "banners/thug-racer-400x347.js", "weight" : 1 },
+		{ "src" : "banners/zombie-massacre-350x350.js", "weight" : 1 },
+		{ "src" : "banners/supagamez-480x316.js", "weight" : 1 }
+	],
+	"inter-delay" : 165,
+	"disable-start-inter" : 1,
+	"no-ad-domains" :
+	[
+		"fgl.com"
+	]
+}
