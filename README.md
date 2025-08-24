@@ -8,3 +8,5 @@
 2. Enable developer mode depending on your browser's version.
 3. Import the source code folder in your browser and open the apps section.
 4. Open the game if it's working and enjoy playing this.
+## How to play this online
+Just click on the page [(Click on me)](https://mildannerofc.github.io/basket-ball/) and please note that save file are not functional.
